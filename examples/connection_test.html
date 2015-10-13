@@ -11,6 +11,13 @@
     console.log(data);
     socket.emit('my other event', { my: 'data' });
   });
+
+  //for using ssl
+  var socket = io.connect('https://your-server.tld', {secure:true});
+  socket.on('news', function (data) {
+    console.log(data);
+    socket.emit('my other event', { my: 'data' });
+  });
 </script>
   	
 </script>
