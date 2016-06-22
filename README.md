@@ -21,7 +21,7 @@ sudo node server.js
 ```
 
 Optional:
-5. Grab a SSL Certificate from your favourite certificate authority (ex. StartSSL) and 
+5. Grab a SSL Certificate from your favourite certificate authority (ex. Let's Encrypt) and save them as `server.crt`(Signed Cert) and `server.key`(Key)
 
 
 Special Thanks to:
