@@ -1,6 +1,8 @@
 # easy-socketio-redis-server
 Easiest Pusher alternative with socket.io and redis.
 
+**This is experimental**
+
 You are searching for a open source alternative for pusher? You want it as simple as possible?
 Here you are:
 
